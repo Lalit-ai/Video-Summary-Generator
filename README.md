@@ -26,7 +26,7 @@ deactivate
 ## Executing script
 
 ```bash
-# Run the App.py
+# Run the summary.py
 python3 summary.py --video_src=VIDEOPATH
 ```
 
