@@ -30,6 +30,14 @@ deactivate
 python3 summary.py --video_src=VIDEOPATH
 ```
 
+
+## Example Summary Videos
+1. https://www.youtube.com/watch?v=YLslsZuEaNE
+2. https://www.youtube.com/watch?v=8LjBPQzBCIM
+
+You can see the example summary in example folder
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
